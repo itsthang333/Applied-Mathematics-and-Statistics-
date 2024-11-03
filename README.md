@@ -1,6 +1,6 @@
 # Applied-Mathematics-and-Statistics-
 
-Lab01: GaussianApplication:
+## Lab01: GaussianApplication:
 - Content: Application of the Gaussian (normal) distribution in specific problems.
 - Knowledge: Introduction to the Gaussian distribution, its properties. Including: Gaussian Elimination and Back Substitution.
 
